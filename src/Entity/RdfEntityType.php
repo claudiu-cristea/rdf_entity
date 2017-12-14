@@ -37,7 +37,10 @@ use Drupal\rdf_entity\RdfEntityTypeInterface;
  *   config_export = {
  *     "name",
  *     "rid",
- *     "description"
+ *     "description",
+ *     "label_singular",
+ *     "label_plural",
+ *     "label_count",
  *   }
  * )
  */
