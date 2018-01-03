@@ -45,4 +45,5 @@ rid: dummy
 description: ''
 label_singular: 'dummy item'
 label_plural: 'dummy items'
-label_count: "1 dummy item\x03@count dummy items"
+label_count:
+  - "1 dummy item\x03@count dummy items"
